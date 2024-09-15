@@ -79,11 +79,3 @@ To format the code:
 ```bash
 npm run format
 ```
-
-## Screenshots
-
-Here are some screenshots of the application:
-
-Home Page
-
-Result Page
